@@ -1,4 +1,4 @@
-name: Deploy Sidegig website
+name: Deploy Conet website
 
 on:
   push:
